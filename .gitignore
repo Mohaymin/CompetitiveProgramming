@@ -4,3 +4,7 @@
 template*.cpp
 dummy*.cpp
 
+/google hash code/hashcode_a/nbproject/private/
+/google hash code/FlySkyAirTicketManagement/nbproject/private/
+/google hash code/FlySkyAirTicketManagement/build/
+/google hash code/FlySkyAirTicketManagement/dist/
